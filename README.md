@@ -38,3 +38,4 @@ Mounting holes have now been added (three in total), which are positioned in a l
 
 **NOTE - This is Entirely Untested. Proceed With Caution**
 
+It's best practise to power thsi adapter board with a bare (I.E, no IC's present) motherboard for intial testing.
