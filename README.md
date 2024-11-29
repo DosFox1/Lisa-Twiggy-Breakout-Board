@@ -31,7 +31,8 @@ So don't do that.
 * I've cleaned up some of the tracks and added thermal relief for soldering. 
 * The errata for the 7905 footprint has been fixed (and added some silk to make sure the polarity is right!).
 * AGND is also now connected to normal DGND, so no jumper is needed.
-* Mounting holes have now been added (three in total), which are positioned in a line on the board. This will help with case building. 
+* Mounting holes have now been added (three in total), which are positioned in a line on the board. This will help with case building.
+* To help with case building, the included SVGs are 1:1 scale to the actual board, meaning they can be imported into your favourite CAD program to help build a case around it.
 
 **NOTE - This is Entirely Untested. Proceed With Caution**
 
